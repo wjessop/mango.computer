@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - <%= @item[:title] %></title>
+    <link rel="stylesheet" href="<%= @items['/stylesheet/'].path %>">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
+  </head>
+  <body>
+    <div id="main">
+      <%= yield %>
+    </div>
+    <div id="sidebar">
+      <h2>Community</h2>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="mailto:will@willj.net">Contact</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
