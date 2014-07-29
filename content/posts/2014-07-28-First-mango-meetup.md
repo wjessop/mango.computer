@@ -32,7 +32,7 @@ Lee is also a founder of Harrow.io, our sponsors for this meetup.
 
 ### About the Sponsors
 
-This meetup we are lucky to be sponsored by [Harrow.io](http://Harrow.io) who provide "Continuous Everything As As Service​":
+This meetup we are lucky to be sponsored by [Harrow.io](http://Harrow.io) who provide "Continuous Everything As A Service​":
 
 > Backed by a powerful API, and built around Git and leveraging the open source tool Capistrano, Harrow makes every aspect of managing provisioning, deployment and management of environments and teams easier.
 
