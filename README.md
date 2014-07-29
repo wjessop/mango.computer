@@ -12,4 +12,4 @@ Github compatible nanoc site generated using a modified form of [these instructi
     $ rm .git/index
     $ git clean -fdx
 
-You can then run nanoc in the root dir< then commit and push to master in the root, and the gh-pages branch in the output dir.
+You can then run nanoc in the root dir then commit and push to master in the root, and the gh-pages branch in the output dir.
