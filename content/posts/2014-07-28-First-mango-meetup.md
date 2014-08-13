@@ -8,6 +8,8 @@ kind: article
 
 [Please register](https://docs.google.com/forms/d/1rmPZr6PFXG4-8p1nMhi1xKMskpecTOe9FeAWGce97B4/viewform) for the meetup if you're going to attend!
 
+On the day if you need any help with the meetup call Will on 07939 547 962.
+
 ### The talks
 
 Both our talks this month are by Lee Hambley, co-founder of [Harrow.io](http://Harrow.io).
@@ -25,7 +27,7 @@ Kitchen-sink frameworks such as Rails include massive amounts of code designed t
 [Lee Hambley](http://lee.hambley.name/) in his own words:
 
 > I’m the founder of a successful consultancy company personally offering extensive experience with Ruby, PHP, Lua, and SQL (MySQL and PostgreSQL). Sometimes I work with JavaScript, C or Objective-C. I contribute heavily to open source.
-> 
+>
 > I’ve maintained Capistrano for the last few years; it’s the de-facto standard for deploying Ruby or Rails applications. I’m working hard with a couple of awesome people at making it work well for other projects too, you can watch us work.
 
 Lee is also a founder of Harrow.io, our sponsors for this meetup.
