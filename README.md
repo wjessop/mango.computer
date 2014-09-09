@@ -13,3 +13,8 @@ Github compatible nanoc site generated using a modified form of [these instructi
     $ git clean -fdx
 
 You can then run nanoc in the root dir then commit and push to master in the root, and the gh-pages branch in the output dir.
+
+## Generating the site, viewing changes locally
+
+1. In the root of the site run "nanoc" to generate the current site. It generates to the "output" dir.
+2. Now run "nanoc view" to spin up a web server on localhost.
