@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Manchester Go User Group - <%= @item[:title] %></title>
+    <title><% if @item[:title] %><%= @item[:title] %> - <% end %>Manchester Go User Group</title>
     <link rel="stylesheet" href="<%= @items['/stylesheet/'].path %>">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
