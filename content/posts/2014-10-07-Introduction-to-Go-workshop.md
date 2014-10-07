@@ -6,7 +6,7 @@ kind: article
 
 ## Wednesday 8th October 2014 - Introduction to Go workshop
 
-[Please register](https://docs.google.com/forms/d/1jNdUQMBGAZRRyK8VeDiIa17__T2qllGyCedIlLffMz8/viewform) for the meetup if you're going to attend!
+[Please register](https://docs.google.com/forms/d/1s1AmKWLzryhhTKUOwOVAy4rk9va5CAGKHEvkL62gC_A/viewform) for the meetup if you're going to attend!
 
 On the day if you need any help with the meetup call Will on 07939 547 962.
 
