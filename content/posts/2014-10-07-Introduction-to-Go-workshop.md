@@ -24,7 +24,7 @@ It would be useful to have Go installed on your laptops beforehand to save time 
 
 To install Go, follow the relevant guide for your operating system:
 
-* [OSX](https://golang.org/doc/install#osx)
+* [OSX](https://golang.org/doc/install#osx) or via Homebrew (brew install go)
 * [Linux](https://golang.org/doc/install#tarball)
 * [Windows](https://golang.org/doc/install#windows)
 
@@ -37,7 +37,7 @@ You should now be able to run "go version" and see the version of Go you have in
 ### Schedule
 
 * 7:00pm :: Introduction to Go workshop
-* 7:30pm :: Q&A
+* 7:45pm :: Q&A
 * After  :: Post-talk drinks at Marble (57 Thomas street)
 
 ### Location
