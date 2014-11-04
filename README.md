@@ -16,5 +16,5 @@ You can then run nanoc in the root dir then commit and push to master in the roo
 
 ## Generating the site, viewing changes locally
 
-1. In the root of the site run "nanoc" to generate the current site. It generates to the "output" dir.
-2. Now run "nanoc view" to spin up a web server on localhost.
+1. In the root of the site run `nanoc` to generate the current site. It generates to the "output" dir.
+2. Run `guard` in the root directory to spin up a web server on localhost (changes to content will be visible by refreshing the page).

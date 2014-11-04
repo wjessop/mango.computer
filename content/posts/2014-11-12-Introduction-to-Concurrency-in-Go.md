@@ -26,7 +26,7 @@ To install Go, follow the relevant guide for your operating system:
 * [Linux](https://golang.org/doc/install#tarball)
 * [Windows](https://golang.org/doc/install#windows)
 
-You should now be able to run "go version" and see the version of Go you have installed. You might also want to familiarise yourself with GO a little by trying out the [online tour](http://tour.golang.org/#1).
+You should now be able to run "go version" and see the version of Go you have installed. You might also want to familiarise yourself with Go a little by trying out the [online tour](http://tour.golang.org/#1).
 
 ### About the Organiser
 
@@ -34,7 +34,7 @@ You should now be able to run "go version" and see the version of Go you have in
 
 ### Schedule
 
-* 7:00pm :: Introduction to Go workshop
+* 7:00pm :: Concurrency in Go
 * 8:00pm :: Q&A
 * After  :: Post-talk drinks at Marble (57 Thomas street)
 
