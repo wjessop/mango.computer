@@ -34,7 +34,7 @@ You should now be able to run "go version" and see the version of Go you have in
 
 ### Schedule
 
-* 7:00pm :: Introduction to Go workshop
+* 7:00pm :: Concurrency in Go
 * 8:00pm :: Q&A
 * After  :: Post-talk drinks at Marble (57 Thomas street)
 
