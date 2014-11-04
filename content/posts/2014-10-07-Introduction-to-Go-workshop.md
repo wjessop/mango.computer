@@ -6,8 +6,6 @@ kind: article
 
 ## Wednesday 8th October 2014 - Introduction to Go workshop
 
-[Please register](https://docs.google.com/forms/d/1s1AmKWLzryhhTKUOwOVAy4rk9va5CAGKHEvkL62gC_A/viewform) for the meetup if you're going to attend!
-
 On the day if you need any help with the meetup call Will on 07939 547 962.
 
 ### The workshop
@@ -43,7 +41,3 @@ You should now be able to run "go version" and see the version of Go you have in
 ### Location
 
 This month we are based in [Manchester SpaceportX (formerly Tech hub Manchester)](http://spaceportx.com/), [directions](https://www.google.com/maps/preview?daddr=53.4823,-2.23394).
-
-### Registering
-
-[Please register](https://docs.google.com/forms/d/1jNdUQMBGAZRRyK8VeDiIa17__T2qllGyCedIlLffMz8/viewform) for the meetup if you're going to attend, it will help us organise the meetup.

@@ -6,8 +6,6 @@ kind: article
 
 ## Wednesday 13th August - Our first meetup, and two talks
 
-[Please register](https://docs.google.com/forms/d/1rmPZr6PFXG4-8p1nMhi1xKMskpecTOe9FeAWGce97B4/viewform) for the meetup if you're going to attend!
-
 On the day if you need any help with the meetup call Will on 07939 547 962.
 
 ### The talks
@@ -50,7 +48,3 @@ This meetup we are lucky to be sponsored by [Harrow.io](http://Harrow.io) who pr
 ### Location
 
 This month we are based in [Tech hub Manchester](http://manchester.techhub.com/), directions can be found on the [tech hub site](http://manchester.techhub.com/directions/manchester/). The venue for the after-meetup drinks is TBA.
-
-### Registering
-
-[Please register](https://docs.google.com/forms/d/1rmPZr6PFXG4-8p1nMhi1xKMskpecTOe9FeAWGce97B4/viewform) for the meetup if you're going to attend, it will help us organise the meetup including judging sponsorship levels and facilities required.
