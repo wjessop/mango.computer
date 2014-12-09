@@ -6,7 +6,7 @@ kind: article
 
 ## Wednesday 10th December 2014 - Christmas social
 
-There are no talks this month so we are having a Christmas social. Come alone and say hello!
+There are no talks this month so we are having a Christmas social. Come along and say hello!
 
 ### Schedule
 
