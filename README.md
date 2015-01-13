@@ -18,3 +18,7 @@ You can then run nanoc in the root dir then commit and push to master in the roo
 
 1. In the root of the site run `nanoc` to generate the current site. It generates to the "output" dir.
 2. Run `guard` in the root directory to spin up a web server on localhost (changes to content will be visible by refreshing the page).
+
+## Pushing the site live
+
+cd to the output dir, commit the changes and push to github.
