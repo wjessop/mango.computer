@@ -22,3 +22,10 @@ You can then run nanoc in the root dir then commit and push to master in the roo
 ## Pushing the site live
 
 cd to the output dir, commit the changes and push to github.
+
+## Guide to setting up a meeting
+
+1. Create the meetup page in the site (pages/). Use an existing page as a template.
+2. Generate the site to the output dir and push live
+3. Tweet about it using the @mango_users twitter account. See @wjessop if you need the creds.
+4. Anounce to the mailing list. Details on the site.
