@@ -4,7 +4,7 @@ created_at: 2015-03-09 14:12:00 +0000
 kind: article
 ---
 
-## Wednesday 11th March 2015 - Profiling and Performance analysis in Go
+## Wednesday 8th April 2015 - Profiling and Performance analysis in Go
 
 [Please register](https://docs.google.com/a/basecamp.com/forms/d/1JgGtkV_h02jNyjH1pDXwZK20c9oSi8o9JPrBf8bqBmo/viewform) for the meetup if you're going to attend!
 
