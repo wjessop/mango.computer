@@ -1,6 +1,6 @@
 ---
 title: Profiling and Performance analysis in Go
-created_at: 2015-03-09 14:12:00 +0000
+created_at: 2015-04-07 16:21:00 +0000
 kind: article
 ---
 
@@ -12,11 +12,11 @@ On the day if you need any help with the meetup call Will on 07939 547 962.
 
 ### The session
 
-This month Peter Waller will be talking about how to profile and analyse the performance of your Go code.
+How do you make a complicated program fast? You look for the bottlenecks. Peter will talk about the fundamentals of modern program profiling and show you how go makes it extremely easy to see where it's best to invest your effort in making your code fast. We'll peek at what it takes to reduce a many hour process to a few seconds.
 
 ### About the Speaker
 
-> Peter Waller is a Technical Architect and engineer at [ScraperWiki](https://scraperwiki.com/), where he does a little bit of everything -  from throwing together Go daemons, to product design and development, to sysadmin. He got interested in Go whilst being a PhD student on the CERN ATLAS experiment searching for a new particle.
+Peter Waller is a Technical Architect and engineer at [ScraperWiki](https://scraperwiki.com/), where he does a little bit of everything -  from throwing together Go daemons, to product design and development, to sysadmin. He got interested in Go whilst being a PhD student on the CERN ATLAS experiment searching for a new particle.
 
 ### Schedule
 
