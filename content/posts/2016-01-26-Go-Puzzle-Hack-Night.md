@@ -10,7 +10,7 @@ This month we're running a hack session: [The Cryptographic Challenge](/posts/20
 
 ### Taking part
 
-Don't worry if you can't bring a laptop or are new to Go as there will be opportunities to pair program or simple observe others. If you do have a laptop, bring it along and make sure you have [Go installed](https://golang.org/dl/).
+Don't worry if you can't bring a laptop or are new to Go as there will be opportunities to pair program or simply observe others. If you do have a laptop, bring it along and make sure you have [Go installed](/posts/2016/01/26/Installing-Go).
 
 ### Schedule
 
