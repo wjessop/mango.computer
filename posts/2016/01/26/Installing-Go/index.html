@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Installing Go - Manchester Go User Group</title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.7.5">
+  </head>
+  <body>
+    <div id="main">
+      <h1>ManGo, the Manchester Go user group</h1>
+      
+<h2 id="installing-go">Installing Go</h2>
+
+<p>If you are on Mac OS X and you use Homebrew simple run:</p>
+
+<pre><code>$ brew install go
+</code></pre>
+
+<p>If you are on Linux or Windows, or you don’t use homebrew, follow <a href="https://golang.org/doc/install">the instructions on the Go site</a>.</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Community</h2>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/past-meetups">Past meetups</a></li>
+        <li><a href="/community">Mailing list and community</a></li>
+      </ul>
+
+      <h2>Contact</h2>
+      <ul>
+        <li><a href="mailto:will@willj.net">Contact</a></li>
+        <li><a href="https://twitter.com/mango_users">ManGo on Twitter</a></li>
+      </ul>
+    </div>
+    <script>
+    var hints = document.querySelectorAll('.hint');
+    var i;
+    for (i = 0; i < hints.length; i++) {
+      hints[i].querySelector('a.hint-reveal').onclick = function(event) {
+        event.preventDefault();
+        this.style.display = 'none';
+        this.parentElement.querySelector('p').style.display = 'block';
+        return false;
+      }
+    }
+    </script>
+  </body>
+</html>
