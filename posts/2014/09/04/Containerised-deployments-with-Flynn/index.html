@@ -58,5 +58,17 @@
         <li><a href="https://twitter.com/mango_users">ManGo on Twitter</a></li>
       </ul>
     </div>
+    <script>
+    var hints = document.querySelectorAll('.hint');
+    var i;
+    for (i = 0; i < hints.length; i++) {
+      hints[i].querySelector('a.hint-reveal').onclick = function(event) {
+        event.preventDefault();
+        this.style.display = 'none';
+        this.parentElement.querySelector('p').style.display = 'block';
+        return false;
+      }
+    }
+    </script>
   </body>
 </html>

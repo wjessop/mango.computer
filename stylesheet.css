@@ -115,3 +115,11 @@ a:hover {
 
   line-height: 20px;
 }
+
+div.hint {
+  margin-bottom: 20px;
+}
+
+div.hint>p{
+  display: none;
+}

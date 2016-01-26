@@ -15,6 +15,7 @@
 <h2 id="past-meetups">Past meetups</h2>
 
 <ul>
+  <li><a href="/posts/2016/01/12/Social-meet">13 January 2016 - Social meet</a></li>
   <li><a href="/posts/2015/12/08/Social-meet">09 December 2015 - Social meet</a></li>
   <li><a href="/posts/2015/11/11/Upgrading-your-technical-skills">14 October 2015 - Upgrading Your Technical Skills</a></li>
   <li><a href="/posts/2015/09/08/Keyword-arguments">9 September 2015 - Keyword arguments</a></li>
@@ -48,5 +49,17 @@
         <li><a href="https://twitter.com/mango_users">ManGo on Twitter</a></li>
       </ul>
     </div>
+    <script>
+    var hints = document.querySelectorAll('.hint');
+    var i;
+    for (i = 0; i < hints.length; i++) {
+      hints[i].querySelector('a.hint-reveal').onclick = function(event) {
+        event.preventDefault();
+        this.style.display = 'none';
+        this.parentElement.querySelector('p').style.display = 'block';
+        return false;
+      }
+    }
+    </script>
   </body>
 </html>

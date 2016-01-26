@@ -20,8 +20,8 @@
 <h3 id="upcoming-meetups">Upcoming meetups</h3>
 
 <ul>
-  <li><a href="/posts/2016/01/12/Social-meet">13 January 2016 - Social meet</a></li>
-  <li>10 February 2016 - TBA</li>
+  <li><a href="/posts/2016/01/26/Go-Puzzle-Hack-Night">10 February 2016 - Go Puzzle Hack Night</a></li>
+  <li>9 March 2016 - TBA</li>
 </ul>
 
 <p>Get notified about upcoming meetups and events by joining our <a href="/community">mailing list</a> or following our <a href="/community">Twitter account</a>.</p>
@@ -56,5 +56,17 @@
         <li><a href="https://twitter.com/mango_users">ManGo on Twitter</a></li>
       </ul>
     </div>
+    <script>
+    var hints = document.querySelectorAll('.hint');
+    var i;
+    for (i = 0; i < hints.length; i++) {
+      hints[i].querySelector('a.hint-reveal').onclick = function(event) {
+        event.preventDefault();
+        this.style.display = 'none';
+        this.parentElement.querySelector('p').style.display = 'block';
+        return false;
+      }
+    }
+    </script>
   </body>
 </html>
