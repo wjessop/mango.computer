@@ -4,7 +4,7 @@ created_at: 2016-06-08 12:23:00 +0000
 kind: article
 ---
 
-## Wednesday 9th June 2016 - Convox, the open source PAAS written in Go
+## Wednesday 8th June 2016 - Convox, the open source PAAS written in Go
 
 On the day if you need any help with the meetup call Will on 07939 547 962.
 
