@@ -4,7 +4,7 @@ created_at: 2016-08-10 14:51:00 +0000
 kind: article
 ---
 
-## Wednesday 11th August 2016 - Go Surgery
+## Wednesday 10th August 2016 - Go Surgery
 
 This month is pretty free-form. Things we will be doing this month:
 
