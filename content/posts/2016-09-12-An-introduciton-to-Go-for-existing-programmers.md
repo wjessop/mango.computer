@@ -4,7 +4,7 @@ created_at: 2016-09-12 13:36:00 +0000
 kind: article
 ---
 
-## Wednesday 9th September 2016 - An introduciton to Go for existing programmers
+## Wednesday 14th September 2016 - An introduciton to Go for existing programmers
 
 This month [Will Jessop](http://willj.net/) will be giving an introduction to Go for existing programmers. We will cover some notable features of the language and will be examining common tasks that as a programmers we might be expected to need to do in any language.
 
