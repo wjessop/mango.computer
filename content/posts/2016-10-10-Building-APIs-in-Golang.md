@@ -8,7 +8,7 @@ kind: article
 
 This month [Edo Scalafiotti](https://twitter.com/edoardo849/) will be talking on how to build a serverless REST API using Go on AWS Lambda.
 
-We will also have talks by [Dan Bond](https://twitter.com/danbondd/) and Tim Blackwell on subjects to be decided.
+We will also have talks by Tim Blackwell who will be giving a talk on "Writing good code" and [Dan Bond](https://twitter.com/danbondd/) on a subject to be decided.
 
 Sponsorship this month is from [Sainsburys](https://sainsburys.jobs/) who are currently hiring (among other things) Go programmers in Manchester.
 
