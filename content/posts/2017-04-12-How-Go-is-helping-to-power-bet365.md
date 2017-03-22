@@ -6,7 +6,7 @@ kind: article
 
 ## Wednesday 12th April 2017 - How Go is helping to power bet365
 
-This month we are happy to announce two talks and sponsorship! [Bet365](https://www.bet365.com/) have kindly stepped up to offer two talks for April, and will be providing Pizza during the meetup, and some drinks at a local bar after the event.
+This month we are happy to announce two talks and sponsorship! [bet365](https://www.bet365.com/) have kindly stepped up to offer two talks for April, and will be providing Pizza during the meetup, and some drinks at a local bar after the event.
 
 * [bet365 main site](https://www.bet365.com/)
 * [The bet365 tech blog](http://bet365techblog.com/)
