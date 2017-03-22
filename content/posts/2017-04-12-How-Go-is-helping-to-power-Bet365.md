@@ -19,7 +19,7 @@ An in depth, technical presentation on where go has recently been a "deadline sa
 
 #### The Speaker
 
-[Andrew Deane (Systems Development Manager - Middleware)](https://uk.linkedin.com/in/andrew-deane-96b2441a) has been the Systems Development Manager for Middleware  at bet365 for 3 years. Growing the middleware team to 50 strong. Working exclusively on the Linux platform, Andy's team focus primarily within the  Erlang / Elixir and Go technology space.
+[Andrew Deane](https://uk.linkedin.com/in/andrew-deane-96b2441a) (Systems Development Manager - Middleware) has been the Systems Development Manager for Middleware  at bet365 for 3 years. Growing the middleware team to 50 strong. Working exclusively on the Linux platform, Andy's team focus primarily within the  Erlang / Elixir and Go technology space.
 
 ### 2. How achieving improved concurrency through Go solved our forensic monitoring timeliness issues
 
@@ -27,7 +27,7 @@ James will start with an overview of the bet365 Forensic Monitoring systems, and
 
 #### The Speaker
 
-[James Osborn (Systems Development Deputy Manager - Forensics)](https://gb.linkedin.com/in/jamesosborn83). has been at bet365 for 4 years in a variety of leadership and management roles. James is responsible for our forensic monitoring team, who have recently made the commitment to Go for 100% of  new code developments.
+[James Osborn](https://gb.linkedin.com/in/jamesosborn83) (Systems Development Deputy Manager - Forensics) has been at bet365 for 4 years in a variety of leadership and management roles. James is responsible for our forensic monitoring team, who have recently made the commitment to Go for 100% of  new code developments.
 
 ### Schedule
 
