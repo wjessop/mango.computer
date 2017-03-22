@@ -6,6 +6,8 @@ kind: article
 
 ## Wednesday 12th April 2017 - How Go is helping to power bet365
 
+**Note on attendance**: If you are attending please RSVP. If you subsequently decide not to come, even if it's on the day, please indicate this on meetup.com. It's really important for judging the amount of pizza to order. Thanks!
+
 This month we are happy to announce two talks and sponsorship! [bet365](https://www.bet365.com/) have kindly stepped up to offer two talks for April, and will be providing Pizza during the meetup, and some drinks at a local bar after the event.
 
 * [bet365 main site](https://www.bet365.com/)
